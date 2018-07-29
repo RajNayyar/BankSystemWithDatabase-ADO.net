@@ -1,0 +1,9 @@
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\rnayyar\source\repos\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb

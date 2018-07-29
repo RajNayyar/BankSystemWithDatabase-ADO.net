@@ -1,0 +1,12 @@
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\bin\Debug\NewBankSystem.exe.config
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\bin\Debug\NewBankSystem.exe
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\bin\Debug\NewBankSystem.pdb
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\bin\Debug\BusinessLogic.dll
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\bin\Debug\DataAccess.dll
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\bin\Debug\BusinessLogic.pdb
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\bin\Debug\DataAccess.pdb
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.csproj.CopyComplete
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.exe
+C:\Users\rnayyar\source\repos\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.pdb
