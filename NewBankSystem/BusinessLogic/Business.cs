@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,15 +9,42 @@ namespace BusinessLogic
 {
     public class Business
     {
-        DataConnect DB = new DataConnect();
+        static InterfaceForAdoEntity DB;
 
         public void getData(int id, string name, string accType, int balance)
         {
-            DB.insert(id, name, accType, balance);
+            GetReferenceForObj();
+     
+            try
+            {
+                DB.insert(id, name, accType, balance);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Account Already Exists");
+            }
         }
-
+        public void GetReferenceForObj()
+        {
+            string databaseCOnnectivity = ConfigurationManager.AppSettings["DatabaseConnectivity"].ToString();
+            int option;                 //currently set to 2 in appconfig file. change it to 1 to access ado.net file
+            Int32.TryParse(databaseCOnnectivity, out option);
+            
+            if (option == 1)
+            {
+                Console.WriteLine("Working through ADO.net");
+                DB = new DataConnectUsingAdo();
+            }
+            else if (option == 2)
+            {
+                Console.WriteLine("Working through Entity Framework");
+                DB = new DataConnectEntityFW();
+            }
+          
+        }
         public void ShowDetails(int id)
         {
+            GetReferenceForObj();
             DB.View(id);
         }
 
@@ -24,7 +52,7 @@ namespace BusinessLogic
         {
             int balance = DB.getBalance(id);
             string type = DB.getType(id).Trim();
-            Console.WriteLine(balance+" "+type);
+            Console.WriteLine(balance + " " + type);
 
             if (type.Equals("S") && (balance - amount) > 1000)
             {
@@ -54,7 +82,7 @@ namespace BusinessLogic
             DB.update(id, balance);
         }
 
-        public float interest(int id , int amount)
+        public float interest(int id)
         {
             int balance = DB.getBalance(id);
             string type = DB.getType(id).Trim();
@@ -72,14 +100,14 @@ namespace BusinessLogic
                 return 0;
             }
         }
-    /*    public int checkIfExists(int id)
-        {
-            if(DB.IdExists(id))
+        /*    public int checkIfExists(int id)
             {
-                return false;
-            }
-            return true;
-        }*/
+                if(DB.IdExists(id))
+                {
+                    return false;
+                }
+                return true;
+            }*/
 
     }
 }

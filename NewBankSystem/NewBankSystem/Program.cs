@@ -16,7 +16,7 @@ namespace NewBankSystem
             int __furtherOption = 1;
             while (true)
             {
-                Console.WriteLine("Enter 1 to Create New account and 2 to access exisiting\n3 to exit");
+                Console.WriteLine("Enter 1 to Create New account and 2 to access exisiting\n3 to exit.");
 
                 __option = int.Parse(Console.ReadLine());
 
@@ -58,21 +58,25 @@ namespace NewBankSystem
                         __furtherOption = int.Parse(Console.ReadLine());
 
 
-                        Console.WriteLine("enter amount");
-                        int amount = int.Parse(Console.ReadLine());
+                      
                         if (__furtherOption == 1)
                         {
+                            Console.WriteLine("enter amount");
+                            int amount = int.Parse(Console.ReadLine());
                             businessObj.withdraw(id, amount);
                             businessObj.ShowDetails(id);
                         }
                         else if (__furtherOption == 2)
                         {
+                            Console.WriteLine("enter amount");
+                            int amount = int.Parse(Console.ReadLine());
                             businessObj.deposit(id, amount);
                             businessObj.ShowDetails(id);
                         }
                         else if (__furtherOption == 3)
                         {
-                            Console.WriteLine("Interest: " + businessObj.interest(id, amount));
+                      
+                            Console.WriteLine("Interest: " + businessObj.interest(id));
                         }
                         else if (__furtherOption == 4)
                         {
