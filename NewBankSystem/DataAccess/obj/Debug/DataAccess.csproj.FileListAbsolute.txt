@@ -28,3 +28,15 @@ C:\Users\rnayyar\Desktop\BankSystemWithDatabase-ADO.net-and-EntityFW-master\NewB
 C:\Users\rnayyar\Desktop\BankSystemWithDatabase-ADO.net-and-EntityFW-master\NewBankSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\rnayyar\Desktop\BankSystemWithDatabase-ADO.net-and-EntityFW-master\NewBankSystem\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\rnayyar\Desktop\BankSystemWithDatabase-ADO.net-and-EntityFW-master\NewBankSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.pdb
