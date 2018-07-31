@@ -40,3 +40,15 @@ C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\o
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\DataAccess\obj\Debug\DataAccess.pdb

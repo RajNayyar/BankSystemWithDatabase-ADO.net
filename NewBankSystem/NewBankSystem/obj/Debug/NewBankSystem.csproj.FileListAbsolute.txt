@@ -64,3 +64,21 @@ C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\NewBankSyste
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.csproj.CopyComplete
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.exe
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\NewBankSystem.exe.config
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\NewBankSystem.exe
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\NewBankSystem.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\BusinessLogic.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\EntityFramework.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\DataAccess.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\BusinessLogic.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\BusinessLogic.dll.config
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\EntityFramework.xml
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\DataAccess.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\bin\Debug\DataAccess.dll.config
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.csprojAssemblyReference.cache
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.csproj.CopyComplete
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.exe
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\NewBankSystem\obj\Debug\NewBankSystem.pdb

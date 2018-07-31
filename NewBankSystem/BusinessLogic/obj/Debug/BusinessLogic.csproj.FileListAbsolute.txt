@@ -52,3 +52,18 @@ C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\BusinessLogi
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Users\pvashisht\Desktop\Bank System to be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\rnayyar\Desktop\BankSystemto be uploaded\NewBankSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
